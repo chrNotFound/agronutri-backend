@@ -2,7 +2,7 @@
 
 API REST en Spring Boot 4 (Java 21) con MySQL para la app móvil AgroNutri. Autentica usuarios con token Bearer, aplica permisos por perfil y guarda predios, análisis, programas y fotos foliares.
 
-**Integrantes:** `[Nombre completo 1]` · `[Nombre completo 2]` &nbsp;←(completar)
+**Integrantes:** `[CHRISTIAN ANDRES TRONCOSO NUNEZ]` · `[RAFAEL ELIAS GALLARDO NORIEL]` · `[STEPHAN ENRIQUE VELASQUEZ ARCE]` · `[FABIAN IGNACIO VALENCIA PIZARRO]`&nbsp;
 
 ## Cómo ejecutarlo
 
